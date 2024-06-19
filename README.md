@@ -1,13 +1,14 @@
 # Hi there, I'm André, a Computer Engineering student
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBBM)]
+
+<br/>
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBBM&theme=tokyonight)
+
+<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreBBM&theme=tokyonight)](https://git.io/streak-stats)
 
-## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBBM&theme=tokyonight)]
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreBBM&theme=tokyonight)](https://git.io/streak-stats)
 
 ## Skills
 
