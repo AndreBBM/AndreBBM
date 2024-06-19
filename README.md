@@ -1,12 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm André, a Computer Engineering student
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBBM)]
 
-![Header](https://your-image-url.com/header.png)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreBBM&theme=tokyonight)](https://git.io/streak-stats)
 
-## About Me
-
-Hi there,
-I'm André, a Computer Engineering student
-
+## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBBM&theme=tokyonight)]
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreBBM&theme=tokyonight)](https://git.io/streak-stats)
